@@ -15,12 +15,14 @@ namespace Demo02
 
         public void Apagar()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Apagando la bicicleta");
         }
 
         public void Arrancar()
         {
             Console.WriteLine("La MotoCicleta está arrancando.");
         }
+
+          
     }
 }
