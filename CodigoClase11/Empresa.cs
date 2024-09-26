@@ -14,8 +14,7 @@ namespace CodigoClase11
         public Ciudad Ciudad { get; set; }
 
         public GiroNegocio GiroNegocio { get; set; }
-
-
+        
         public List<Sucursal> Sucursales { get; set; }
         public List<Area> Areas { get; set; }        
 
